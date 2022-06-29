@@ -1,6 +1,8 @@
 I hate computers
-Former soyadev
+former soyadev
 Working on emulator projects
+
+
 Contacts: dar2182005@gmail.com
 
 <!---
